@@ -1,0 +1,46 @@
+﻿# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ / VS Code / Cursor
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.cursor/
+
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+**/doc/api/
+
+# Android
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/key.properties
+*.jks
+
+# Env / secrets
+.env
+.env.*
+*.pem
+google-services.json
+GoogleService-Info.plist
