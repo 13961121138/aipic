@@ -3,6 +3,7 @@
 Flutter 跨端 **AI 相机** 应用（iOS / Android），主打成片「高级感」与端侧 **AI 构图辅助**。
 
 - 开发计划：[docs/Flutter_AI_相机_开发计划.md](docs/Flutter_AI_相机_开发计划.md)
+- **首次连接 GitHub**：按 [docs/GitHub_配置步骤.md](docs/GitHub_配置步骤.md) 操作（注册、建空仓库、PAT、推送）。
 
 首次在本机提交前，请将 Git 用户名与邮箱设为你自己的（若未配置全局身份）：
 
