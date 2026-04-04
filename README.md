@@ -1,8 +1,15 @@
 # aipic
 
-Flutter 跨端 **AI 相机** 应用（iOS / Android），主打成片「高级感」与端侧 **AI 构图辅助**。详见开发计划：
+Flutter 跨端 **AI 相机** 应用（iOS / Android），主打成片「高级感」与端侧 **AI 构图辅助**。
 
-- [docs/Flutter_AI_相机_开发计划.md](docs/Flutter_AI_相机_开发计划.md)
+- 开发计划：[docs/Flutter_AI_相机_开发计划.md](docs/Flutter_AI_相机_开发计划.md)
+
+首次在本机提交前，请将 Git 用户名与邮箱设为你自己的（若未配置全局身份）：
+
+```bash
+git config user.name "你的名字"
+git config user.email "你的邮箱"
+```
 
 ## 环境要求
 
